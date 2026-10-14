@@ -1,0 +1,1 @@
+{ "name": "growth-vistara-site", "version": "1.0.0", "private": true, "description": "Growth Vistara website with enquiry API (no dependencies)", "scripts": { "start": "node server.js", "dev": "node server.js" }, "engines": { "node": ">=18" } }
